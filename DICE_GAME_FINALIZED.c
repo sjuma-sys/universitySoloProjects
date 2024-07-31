@@ -1,11 +1,3 @@
-/*
-Dice game
-Created by:
-Frederick (M00812098)
-Abdur-Rahman (M00808632)
-Said (M00804482)
-*/
-
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
